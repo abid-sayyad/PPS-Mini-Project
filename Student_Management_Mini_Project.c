@@ -25,7 +25,7 @@ void main()
         printf("\t\t\t\t     4. Delete Student\n");
         printf("\t\t\t\t     5. Exit\n");
         printf("\t\t\t\t    -------------------------------------------\n");
-        printf("\t\t\t\t         RA2111028010054 Lakshya Dhariwal\n");
+        printf("\t\t\t\t         RA2111029010014 Sayyad Abid\n");
         printf("\t\t\t\t    -------------------------------------------\n\n\n\n");
         printf("\t\t\t\t     Enter the provided choice: \n\n\n\n");
         scanf("%d", &choice);
